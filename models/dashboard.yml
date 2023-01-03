@@ -1,6 +1,9 @@
 version: 2
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Update setup_redshift.sql
 exposures:
   
   - name: tickit_sales_summary

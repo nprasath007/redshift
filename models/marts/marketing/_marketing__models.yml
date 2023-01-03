@@ -5,4 +5,8 @@ models:
       description: All events with details
 
     - name: dim_non_buyers
+<<<<<<< HEAD
       description: All non-buyers, based on sales history
+=======
+      description: All non-buyers, based on sales history
+>>>>>>> Update setup_redshift.sql

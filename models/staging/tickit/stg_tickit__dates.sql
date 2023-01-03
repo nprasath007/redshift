@@ -26,5 +26,8 @@ renamed as (
 
 )
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Update setup_redshift.sql
 select * from renamed

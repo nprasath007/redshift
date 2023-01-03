@@ -5,4 +5,8 @@ models:
     description: All buyers, based on sales history, extracted from users
     
   - name: int_sellers_extracted_from_users
+<<<<<<< HEAD
     description: All sellers, based on sales history, extracted from users
+=======
+    description: All sellers, based on sales history, extracted from users
+>>>>>>> Update setup_redshift.sql

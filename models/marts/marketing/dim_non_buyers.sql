@@ -42,4 +42,8 @@ final as (
 
 )
 
+<<<<<<< HEAD
 select * from final
+=======
+select * from final
+>>>>>>> Update setup_redshift.sql

@@ -22,4 +22,8 @@ renamed as (
         venue_id
 )
 
+<<<<<<< HEAD
 select * from renamed
+=======
+select * from renamed
+>>>>>>> Update setup_redshift.sql

@@ -22,7 +22,10 @@ renamed as (
     order by
         event_id
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Update setup_redshift.sql
 )
 
 select * from renamed

@@ -6,7 +6,10 @@ with source as (
 
 ),
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Update setup_redshift.sql
 renamed as (
 
     select

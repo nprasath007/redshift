@@ -20,4 +20,8 @@ models:
     description: Late binding view of external dimension table - TICKIT user
 
   - name: stg_tickit__venues
+<<<<<<< HEAD
     description: Late binding view of external dimension table - TICKIT venue
+=======
+    description: Late binding view of external dimension table - TICKIT venue
+>>>>>>> Update setup_redshift.sql
