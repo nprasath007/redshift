@@ -6,7 +6,11 @@ models:
 
     - name: dim_non_buyers
 <<<<<<< HEAD
+<<<<<<< HEAD
       description: All non-buyers, based on sales history
 =======
       description: All non-buyers, based on sales history
 >>>>>>> Update setup_redshift.sql
+=======
+      description: All non-buyers, based on sales history
+>>>>>>> 1st commit

@@ -25,10 +25,6 @@ clean-targets:         # directories to be removed by `dbt clean`
   - "dbt_packages"
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> Update setup_redshift.sql
 # Configuring models
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
 

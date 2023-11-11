@@ -7,9 +7,13 @@ with source as (
 ),
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> Update setup_redshift.sql
+=======
+
+>>>>>>> 1st commit
 renamed as (
 
     select

@@ -1,9 +1,13 @@
 version: 2
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> Update setup_redshift.sql
+=======
+
+>>>>>>> 1st commit
 exposures:
   
   - name: tickit_sales_summary
