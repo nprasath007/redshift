@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 version: 2
-
 
 sources:
   - name: tickit_external
@@ -199,8 +196,7 @@ sources:
             data_type: int
             tests:
               - not_null
-            tests:
-              - not_null
+
           - name: dateid
             data_type: int
             tests:
@@ -312,4 +308,3 @@ sources:
               - not_null            
           - name: venueseats
             data_type: integer
->>>>>>> 1st commit
