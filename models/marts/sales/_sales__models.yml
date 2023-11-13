@@ -6,11 +6,3 @@ models:
 
     - name: fct_sales
       description: All sales with details
-<<<<<<< HEAD
-<<<<<<< HEAD
-      
-=======
->>>>>>> Update setup_redshift.sql
-=======
-      
->>>>>>> 1st commit
