@@ -307,5 +307,4 @@ sources:
             tests:
               - not_null            
           - name: venueseats
-            data_type: integer
-            
+            data_type: integer       
