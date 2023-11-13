@@ -81,12 +81,4 @@ final as (
 
 )
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 select * from final
-=======
-select * from final
->>>>>>> Update setup_redshift.sql
-=======
-select * from final
->>>>>>> 1st commit

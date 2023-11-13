@@ -26,12 +26,4 @@ renamed as (
 
 )
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> Update setup_redshift.sql
-=======
-
->>>>>>> 1st commit
 select * from renamed
