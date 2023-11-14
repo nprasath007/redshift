@@ -21,15 +21,6 @@ renamed as (
         event_id IS NOT NULL
     order by
         event_id
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> Update setup_redshift.sql
-=======
-
->>>>>>> 1st commit
 )
 
 select * from renamed

@@ -22,12 +22,4 @@ renamed as (
         venue_id
 )
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 select * from renamed
-=======
-select * from renamed
->>>>>>> Update setup_redshift.sql
-=======
-select * from renamed
->>>>>>> 1st commit

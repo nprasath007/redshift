@@ -196,7 +196,6 @@ sources:
             data_type: int
             tests:
               - not_null
-
           - name: dateid
             data_type: int
             tests:

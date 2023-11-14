@@ -5,15 +5,6 @@ with source as (
     select * from {{ source('tickit_external', 'category') }}
 
 ),
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> Update setup_redshift.sql
-=======
-
->>>>>>> 1st commit
 renamed as (
 
     select
